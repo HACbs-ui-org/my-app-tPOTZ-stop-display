@@ -3,7 +3,6 @@ kind: Deployment
 metadata:
   creationTimestamp: null
   name: devfile-sample-ozae
-  namespace: karthik-jk-tenant
 spec:
   replicas: 1
   selector: {}
